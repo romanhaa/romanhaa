@@ -4,7 +4,7 @@ I'm a Software Engineer and [Open Targets](https://www.opentargets.org/) Special
 
 My background is in Bioinformatics / Computational Biology (more info about my [PhD dissertation](https://romanhaa.github.io/phd_thesis/)).
  
-I love Data Visualization (see my [plot gallery](https://romanhaa.github.io/plots/)).
+I love Data Visualization (see my [plot gallery](https://romanhaa.github.io/plots/) and my [map gallery](https://github.com/romanhaa/plot-maps)).
 
 Single cell analysis is one of my specialties (see my [workflow](https://romanhaa.github.io/projects/scrnaseq_workflow/)).
 
