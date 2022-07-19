@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
 
 I'm a Software Engineer and [Open Targets](https://www.opentargets.org/) Specialist working at [The Hyve](https://thehyve.nl/).
 
