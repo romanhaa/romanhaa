@@ -5,14 +5,14 @@ Specialist working at [The Hyve](https://thehyve.nl/).
 
 My background is in Bioinformatics / Computational Biology (more info about my
 [PhD dissertation](https://romanhaa.github.io/phd_thesis/)).
+Single cell data analysis is one of my specialties (see my
+[workflow](https://romanhaa.github.io/projects/scrnaseq_workflow/)).
+
 
 I love Data Visualization (see my galleries of
 [plots](https://romanhaa.github.io/plots/) and
 [maps](https://github.com/romanhaa/plot-maps)) and am equally enthusiastic about
 the frontend and backend stack.
-
-Single cell data analysis is one of my specialties (see my
-[workflow](https://romanhaa.github.io/projects/scrnaseq_workflow/)).
 
 <!--
 **romanhaa/romanhaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
