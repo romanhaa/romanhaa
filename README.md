@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer and [Open Targets](https://www.opentargets.org/)
-Specialist working at [The Hyve](https://thehyve.nl/).
+I'm a Software Engineer at [PipeBio](https://pipebio.com/).
 
 My background is in Bioinformatics / Computational Biology (more info about my
 [PhD dissertation](https://romanhaa.github.io/phd_thesis/)).
