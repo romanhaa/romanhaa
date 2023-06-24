@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer working at [PipeBio](https://pipebio.com/).
+I'm a Bioinformatics Developer working at [PipeBio](https://pipebio.com/).
 
 My background is in Bioinformatics / Computational Biology (more info about my
 [PhD dissertation](https://romanhaa.github.io/phd_thesis/)).
